@@ -24,13 +24,8 @@
     "encode"
   ],
   "devDependencies": {
-    "gi-assert": "git://github.com/goinstant/assert.git#v1.0.0",
     "mocha": "1.8.2",
     "mocha-phantomjs": "2.0.2",
-    "lodash": "1.3.1",
-    "component": "0.18.0",
-    "coveralls": "2.3.0",
-    "mocha-lcov-reporter": "0.0.1",
-    "blanket": "1.1.5"
+    "lodash": "1.3.1"
   }
 }
