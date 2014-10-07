@@ -37,10 +37,12 @@
   </head>
   <body>
     <div id="mocha"></div>
-    <script src="lodash.js"></script>
     <script src="mocha.js"></script>
+    <script src="chai.js"></script>
+    <script src="lodash.js"></script>
 
-    <script>
+    <script type="text/javascript">
+      window.assert = chai.assert;
       mocha.setup('bdd');
     </script>
 
