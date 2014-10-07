@@ -11,7 +11,7 @@
   },
   "homepage": "http://goinstant.github.io/secure-filters/",
   "repository": "git@github.com:goinstant/secure-filters.git",
-  "author": "GoInstant Inc., a salesforce.com company",
+  "author": "Salesforce.com, Inc.",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">= 0.10.0"
