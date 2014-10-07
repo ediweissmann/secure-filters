@@ -38,7 +38,7 @@ var _;
 if (typeof module !== 'undefined' && module.exports) {
   assert = require('assert');
   secureFilters = require('./index');
-  _ = require('lodash');
+  _ = require('underscore');
 } else {
   assert = root.assert;
   secureFilters = root.secureFilters;
